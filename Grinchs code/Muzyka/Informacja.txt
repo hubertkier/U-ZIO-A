@@ -1,0 +1,7 @@
+Za³o¿eniem projektu by³o odtwarzanie muzyki razem z odpowiednim naciskaniem przycisków w grze,
+lecz nie uda³o nam siê tego uczyniæ.
+Muzyka:
+Muzyka podstawowa-podczas zwyczajnej rozgrywki
+Muzyka ucieczka-kiedy uciekamy przed Grinchem w jednej z opcji dialogowych
+Muzyka udane zakoñczenie-kiedy udaje nam siê ocaliæ œwiêta
+Muzyka nieudane zakoñczenie-kiedy nie udaje nam siê ocaliæ œwi¹t
